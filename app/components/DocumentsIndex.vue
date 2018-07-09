@@ -14,7 +14,9 @@
                         <span class="glyphicon glyphicon-remove"></span> Delete
                     </a>
                 </div>
-                {{ document.name }}
+                <router-link :to="{name: 'viewDocument', params: {id: document.id}}">
+                    {{ document.name }}
+                </router-link>
             </div>
             <div class="panel-body">
                 {{ document.description }}
