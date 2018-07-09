@@ -1,5 +1,5 @@
 <h1>Yii2-Vue.Js-CRUD</h1>
-(https://github.com/sn8/yii2-vuejs-curd/blob/master/screenshot.png)
+(https://raw.githubusercontent.com/sn8/yii2-vuejs-crud/master/screenshot.png)
 
 Simple CRUD application with Yii2 and Vue.js.
 
